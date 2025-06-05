@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MUKESH2215/leetcode/tree/master/0011-container-with-most-water) |
+| [0066-plus-one](https://github.com/MUKESH2215/leetcode/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/MUKESH2215/leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/MUKESH2215/leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/MUKESH2215/leetcode/tree/master/0066-plus-one) |
 ## Bit Manipulation
 |  |
 | ------- |
