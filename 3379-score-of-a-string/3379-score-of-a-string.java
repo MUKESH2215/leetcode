@@ -10,8 +10,8 @@ public class Solution {
     public static void main(String[] args) {
         Solution sol = new Solution();
 
-        System.out.println(sol.scoreOfString("hello"));  // Output: 13
-        System.out.println(sol.scoreOfString("zaz"));    // Output: 50
+        System.out.println(sol.scoreOfString("hello"));  
+        System.out.println(sol.scoreOfString("zaz")); 
     }
 }
 
