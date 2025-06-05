@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/MUKESH2215/leetcode/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/MUKESH2215/leetcode/tree/master/0066-plus-one) |
+| [2058-concatenation-of-array](https://github.com/MUKESH2215/leetcode/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/MUKESH2215/leetcode/tree/master/0067-add-binary) |
+| [2058-concatenation-of-array](https://github.com/MUKESH2215/leetcode/tree/master/2058-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
