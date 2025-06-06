@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/MUKESH2215/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/MUKESH2215/leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/MUKESH2215/leetcode/tree/master/0136-single-number) |
+| [0283-move-zeroes](https://github.com/MUKESH2215/leetcode/tree/master/0283-move-zeroes) |
 | [2058-concatenation-of-array](https://github.com/MUKESH2215/leetcode/tree/master/2058-concatenation-of-array) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MUKESH2215/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Two Pointers
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MUKESH2215/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/MUKESH2215/leetcode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/MUKESH2215/leetcode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/MUKESH2215/leetcode/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
