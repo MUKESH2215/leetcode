@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/MUKESH2215/leetcode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/MUKESH2215/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/MUKESH2215/leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/MUKESH2215/leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/MUKESH2215/leetcode/tree/master/1013-fibonacci-number) |
 ## String Matching
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/MUKESH2215/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/MUKESH2215/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/MUKESH2215/leetcode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/MUKESH2215/leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/MUKESH2215/leetcode/tree/master/1013-fibonacci-number) |
 | [2383-add-two-integers](https://github.com/MUKESH2215/leetcode/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/MUKESH2215/leetcode/tree/master/2556-convert-the-temperature) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/MUKESH2215/leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/MUKESH2215/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/MUKESH2215/leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/MUKESH2215/leetcode/tree/master/0231-power-of-two) |
 ## Linked List
 |  |
 | ------- |
