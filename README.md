@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/MUKESH2215/leetcode/tree/master/0577-employee-bonus) |
 | [0607-sales-person](https://github.com/MUKESH2215/leetcode/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/MUKESH2215/leetcode/tree/master/0610-triangle-judgement) |
+| [1811-fix-names-in-a-table](https://github.com/MUKESH2215/leetcode/tree/master/1811-fix-names-in-a-table) |
 | [1837-daily-leads-and-partners](https://github.com/MUKESH2215/leetcode/tree/master/1837-daily-leads-and-partners) |
 ## Simulation
 |  |
