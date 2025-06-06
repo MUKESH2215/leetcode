@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/MUKESH2215/leetcode/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MUKESH2215/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/MUKESH2215/leetcode/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/MUKESH2215/leetcode/tree/master/0202-happy-number) |
 ## Greedy
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/MUKESH2215/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/MUKESH2215/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/MUKESH2215/leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/MUKESH2215/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/MUKESH2215/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/MUKESH2215/leetcode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/MUKESH2215/leetcode/tree/master/1013-fibonacci-number) |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/MUKESH2215/leetcode/tree/master/0088-merge-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/MUKESH2215/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
