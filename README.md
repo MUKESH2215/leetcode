@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/MUKESH2215/leetcode/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/MUKESH2215/leetcode/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/MUKESH2215/leetcode/tree/master/0136-single-number) |
 | [2058-concatenation-of-array](https://github.com/MUKESH2215/leetcode/tree/master/2058-concatenation-of-array) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MUKESH2215/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Two Pointers
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/MUKESH2215/leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/MUKESH2215/leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/MUKESH2215/leetcode/tree/master/0136-single-number) |
 ## Linked List
 |  |
 | ------- |
