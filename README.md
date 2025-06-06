@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/MUKESH2215/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/MUKESH2215/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/MUKESH2215/leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/MUKESH2215/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MUKESH2215/leetcode/tree/master/0283-move-zeroes) |
 | [2058-concatenation-of-array](https://github.com/MUKESH2215/leetcode/tree/master/2058-concatenation-of-array) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MUKESH2215/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/MUKESH2215/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/MUKESH2215/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/MUKESH2215/leetcode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/MUKESH2215/leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/MUKESH2215/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/MUKESH2215/leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/MUKESH2215/leetcode/tree/master/0367-valid-perfect-square) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/MUKESH2215/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/MUKESH2215/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/MUKESH2215/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/MUKESH2215/leetcode/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/MUKESH2215/leetcode/tree/master/0476-number-complement) |
 ## Linked List
 |  |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/MUKESH2215/leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/MUKESH2215/leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/MUKESH2215/leetcode/tree/master/0367-valid-perfect-square) |
 ## Memoization
 |  |
@@ -128,10 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/MUKESH2215/leetcode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/MUKESH2215/leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/MUKESH2215/leetcode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/MUKESH2215/leetcode/tree/master/0268-missing-number) |
 ## Brainteaser
 |  |
 | ------- |
