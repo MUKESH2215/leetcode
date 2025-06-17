@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/MUKESH2215/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/MUKESH2215/leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MUKESH2215/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/MUKESH2215/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/MUKESH2215/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/MUKESH2215/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MUKESH2215/leetcode/tree/master/0283-move-zeroes) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MUKESH2215/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MUKESH2215/leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MUKESH2215/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/MUKESH2215/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/MUKESH2215/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/MUKESH2215/leetcode/tree/master/0283-move-zeroes) |
 ## Greedy
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/MUKESH2215/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/MUKESH2215/leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/MUKESH2215/leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0189-rotate-array](https://github.com/MUKESH2215/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/MUKESH2215/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/MUKESH2215/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/MUKESH2215/leetcode/tree/master/0258-add-digits) |
