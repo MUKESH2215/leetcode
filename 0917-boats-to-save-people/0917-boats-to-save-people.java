@@ -6,17 +6,13 @@ class Solution {
         Arrays.sort(people);
         while(l<=r)
         {
-            if(people[l]+people[r]>limit)
-            {
-                r--;
-                boat++;
-            }
-            else if(people[l]+people[r]<=limit)
-            {
+            if(people[l]+people[r]<=limit)
+            
                 l++;
                 r--;
                 boat++;
-            }
+            
+            
             
 
         }
