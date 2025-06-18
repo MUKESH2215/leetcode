@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/MUKESH2215/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/MUKESH2215/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/MUKESH2215/leetcode/tree/master/0290-word-pattern) |
+| [0412-fizz-buzz](https://github.com/MUKESH2215/leetcode/tree/master/0412-fizz-buzz) |
 | [3379-score-of-a-string](https://github.com/MUKESH2215/leetcode/tree/master/3379-score-of-a-string) |
 ## Dynamic Programming
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/MUKESH2215/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/MUKESH2215/leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/MUKESH2215/leetcode/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/MUKESH2215/leetcode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/MUKESH2215/leetcode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MUKESH2215/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2383-add-two-integers](https://github.com/MUKESH2215/leetcode/tree/master/2383-add-two-integers) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/MUKESH2215/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/MUKESH2215/leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/MUKESH2215/leetcode/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/MUKESH2215/leetcode/tree/master/2058-concatenation-of-array) |
 ## Binary Search
 |  |
