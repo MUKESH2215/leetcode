@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/MUKESH2215/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/MUKESH2215/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MUKESH2215/leetcode/tree/master/0283-move-zeroes) |
+| [1603-running-sum-of-1d-array](https://github.com/MUKESH2215/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/MUKESH2215/leetcode/tree/master/2058-concatenation-of-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/MUKESH2215/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MUKESH2215/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -186,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/MUKESH2215/leetcode/tree/master/0048-rotate-image) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MUKESH2215/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/MUKESH2215/leetcode/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
