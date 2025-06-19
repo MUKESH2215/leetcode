@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/MUKESH2215/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/MUKESH2215/leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/MUKESH2215/leetcode/tree/master/0412-fizz-buzz) |
+| [0742-to-lower-case](https://github.com/MUKESH2215/leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/MUKESH2215/leetcode/tree/master/0782-jewels-and-stones) |
 | [3379-score-of-a-string](https://github.com/MUKESH2215/leetcode/tree/master/3379-score-of-a-string) |
 ## Dynamic Programming
