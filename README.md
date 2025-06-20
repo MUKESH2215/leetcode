@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/MUKESH2215/leetcode/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/MUKESH2215/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/MUKESH2215/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2722-prime-in-diagonal](https://github.com/MUKESH2215/leetcode/tree/master/2722-prime-in-diagonal) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MUKESH2215/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Two Pointers
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/MUKESH2215/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/MUKESH2215/leetcode/tree/master/2507-number-of-common-factors) |
 | [2556-convert-the-temperature](https://github.com/MUKESH2215/leetcode/tree/master/2556-convert-the-temperature) |
+| [2722-prime-in-diagonal](https://github.com/MUKESH2215/leetcode/tree/master/2722-prime-in-diagonal) |
 | [2812-find-the-maximum-achievable-number](https://github.com/MUKESH2215/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/MUKESH2215/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3371-harshad-number](https://github.com/MUKESH2215/leetcode/tree/master/3371-harshad-number) |
@@ -204,12 +206,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/MUKESH2215/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/MUKESH2215/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/MUKESH2215/leetcode/tree/master/2507-number-of-common-factors) |
+| [2722-prime-in-diagonal](https://github.com/MUKESH2215/leetcode/tree/master/2722-prime-in-diagonal) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/MUKESH2215/leetcode/tree/master/0048-rotate-image) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MUKESH2215/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1791-richest-customer-wealth](https://github.com/MUKESH2215/leetcode/tree/master/1791-richest-customer-wealth) |
+| [2722-prime-in-diagonal](https://github.com/MUKESH2215/leetcode/tree/master/2722-prime-in-diagonal) |
 ## Prefix Sum
 |  |
 | ------- |
