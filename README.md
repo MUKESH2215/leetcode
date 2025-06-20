@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/MUKESH2215/leetcode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/MUKESH2215/leetcode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MUKESH2215/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2083-three-divisors](https://github.com/MUKESH2215/leetcode/tree/master/2083-three-divisors) |
 | [2383-add-two-integers](https://github.com/MUKESH2215/leetcode/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/MUKESH2215/leetcode/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/MUKESH2215/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/MUKESH2215/leetcode/tree/master/0258-add-digits) |
+| [2083-three-divisors](https://github.com/MUKESH2215/leetcode/tree/master/2083-three-divisors) |
 ## Matrix
 |  |
 | ------- |
@@ -205,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/MUKESH2215/leetcode/tree/master/1603-running-sum-of-1d-array) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/MUKESH2215/leetcode/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
