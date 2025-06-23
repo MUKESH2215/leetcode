@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/MUKESH2215/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/MUKESH2215/leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/MUKESH2215/leetcode/tree/master/0412-fizz-buzz) |
+| [0504-base-7](https://github.com/MUKESH2215/leetcode/tree/master/0504-base-7) |
 | [1013-fibonacci-number](https://github.com/MUKESH2215/leetcode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MUKESH2215/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2083-three-divisors](https://github.com/MUKESH2215/leetcode/tree/master/2083-three-divisors) |
