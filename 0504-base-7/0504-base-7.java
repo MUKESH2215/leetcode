@@ -1,7 +1,14 @@
 class Solution {
     public String convertToBase7(int n) {
-            if (n < 0) return "-" + convertToBase7(-n);
-        if (n < 7) return Integer.toString(n);
-        return convertToBase7(n / 7) + Integer.toString(n % 7);
+        int num = Math.abs(n);
+        if(num==0) return "0";
+       StringBuilder sb = new StringBuilder();
+        while(num!=0){
+            sb.append(num%7);
+            num/=7;
+        }
+        if(n<0)
+        sb.append("-");
+        return sb.reverse().toString();
     }
 }
