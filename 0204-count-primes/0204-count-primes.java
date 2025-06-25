@@ -13,14 +13,16 @@ class Solution {
                     arr[j]=false;
                 }
             }
+            
+            
         }
-            for(int i=2;i<n;i++)
+           for(int i=2;i<n;i++)
+           {
+            if(arr[i])
             {
-                if(arr[i])
-                {
-                    count++;
-                }
+                count++;
             }
+           }
         
         return count;
     }
