@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/MUKESH2215/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/MUKESH2215/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MUKESH2215/leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/MUKESH2215/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0605-can-place-flowers](https://github.com/MUKESH2215/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/MUKESH2215/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0917-boats-to-save-people](https://github.com/MUKESH2215/leetcode/tree/master/0917-boats-to-save-people) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/MUKESH2215/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/MUKESH2215/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/MUKESH2215/leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/MUKESH2215/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0917-boats-to-save-people](https://github.com/MUKESH2215/leetcode/tree/master/0917-boats-to-save-people) |
 ## Greedy
 |  |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MUKESH2215/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MUKESH2215/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/MUKESH2215/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/MUKESH2215/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/MUKESH2215/leetcode/tree/master/0367-valid-perfect-square) |
 ## Memoization
 |  |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/MUKESH2215/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MUKESH2215/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MUKESH2215/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/MUKESH2215/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0917-boats-to-save-people](https://github.com/MUKESH2215/leetcode/tree/master/0917-boats-to-save-people) |
 ## Hash Table
 |  |
@@ -207,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/MUKESH2215/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MUKESH2215/leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/MUKESH2215/leetcode/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/MUKESH2215/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0782-jewels-and-stones](https://github.com/MUKESH2215/leetcode/tree/master/0782-jewels-and-stones) |
 ## Brainteaser
 |  |
