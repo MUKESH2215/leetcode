@@ -15,8 +15,8 @@ class Solution {
         if(head==null || head.next==null) return null;
         while(tptr!=null)
         {
-            tptr=tptr.next;
             count++;
+            tptr=tptr.next;
         }
         ListNode temp=head;
         for(int i=0;i<(count/2)-1;i++)
