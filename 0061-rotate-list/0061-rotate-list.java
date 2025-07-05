@@ -13,18 +13,18 @@ class Solution {
         if (head == null || head.next == null || k == 0) {
             return head;
         }
-        int length = 1;
+        int count = 1;
         ListNode temp = head;
         while (temp.next != null) {
             temp = temp.next;
-            length++;
+            count++;
         }
-        k = k % length;
+        k = k % count;
         if (k == 0) {
             return head;
         }
-        int count = 0;
-        while (count != k) {
+        int count1 = 0;
+        while (count1 != k) {
             ListNode tptr = head;
             while (tptr.next.next != null) {
                 tptr = tptr.next;
@@ -33,7 +33,7 @@ class Solution {
             last.next = head;
             tptr.next = null;
             head = last;
-            count++;
+            count1++;
         }
         
         return head;
