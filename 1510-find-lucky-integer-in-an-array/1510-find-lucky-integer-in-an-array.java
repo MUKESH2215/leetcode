@@ -1,27 +1,19 @@
 class Solution {
     public int findLucky(int[] arr) {
-        int res=-1;
-        int count=0;
-        int temp=0;
-        for(int i=0;i<arr.length;i++)
-        {
-            count=0;
-            for(int j=0;j<arr.length;j++)
-            {
-                
-                
-                if(arr[i]==arr[j])
-                {
-                    count++;
-                }
+        int[] freq = new int[501]; // Since 1 <= arr[i] <= 500
+
+        // Count frequency of each number
+        for (int num : arr) {
+            freq[num]++;
+        }
+
+        // Check from largest to smallest
+        for (int i = 500; i >= 1; i--) {
+            if (freq[i] == i) {
+                return i;
             }
-        
-            
-            if(count==arr[i])
-            {
-                res=Math.max(res,arr[i]);
-            }
-        } 
-    return res;
+        }
+
+        return -1; // No lucky integer found
     }
 }
