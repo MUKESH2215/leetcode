@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/MUKESH2215/leetcode/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/MUKESH2215/leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/MUKESH2215/leetcode/tree/master/0782-jewels-and-stones) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/MUKESH2215/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [3379-score-of-a-string](https://github.com/MUKESH2215/leetcode/tree/master/3379-score-of-a-string) |
 ## Dynamic Programming
 |  |
@@ -303,4 +304,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/MUKESH2215/leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/MUKESH2215/leetcode/tree/master/0155-min-stack) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/MUKESH2215/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
