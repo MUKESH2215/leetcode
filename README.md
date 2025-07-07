@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/MUKESH2215/leetcode/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/MUKESH2215/leetcode/tree/master/0155-min-stack) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -301,4 +302,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MUKESH2215/leetcode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/MUKESH2215/leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
