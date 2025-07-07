@@ -5,27 +5,21 @@ public class Solution {
         Stack<Character> stack = new Stack<>();
         
         for (char ch : s.toCharArray()) {
-            if (ch == '(') {
-                stack.push(')');
-            } else if (ch == '{') {
-                stack.push('}');
-            } else if (ch == '[') {
-                stack.push(']');
-            } else {
-                if (stack.isEmpty() || stack.pop() != ch) {
-                    return false;
+            if (ch == '(' || ch=='{' || ch=='[')
+            {
+                stack.push(ch);
+            }
+            else {
+                if(stack.isEmpty()) return false;
+                else
+                {
+                char top=stack.pop();
+                if ((ch=='}' && top!='{')|| (ch==']'&& top!='[')||(ch==')' && top!='(')) 
+                    return false; 
+                }
                 }
             }
-        }
+        
         return stack.isEmpty();
     }
-
-    // public static void main(String[] args) {
-    //     Solution sol = new Solution();
-        
-    //     System.out.println(sol.isValid("()"));       
-    //     System.out.println(sol.isValid("()[]{}"));   
-    //     System.out.println(sol.isValid("(]"));      
-    //     System.out.println(sol.isValid("([])"));    
-    // }
 }
