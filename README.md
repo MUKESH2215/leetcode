@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/MUKESH2215/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/MUKESH2215/leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/MUKESH2215/leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0224-basic-calculator](https://github.com/MUKESH2215/leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/MUKESH2215/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/MUKESH2215/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/MUKESH2215/leetcode/tree/master/0344-reverse-string) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/MUKESH2215/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/MUKESH2215/leetcode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/MUKESH2215/leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0224-basic-calculator](https://github.com/MUKESH2215/leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/MUKESH2215/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/MUKESH2215/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MUKESH2215/leetcode/tree/master/0342-power-of-four) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/MUKESH2215/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/MUKESH2215/leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/MUKESH2215/leetcode/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/MUKESH2215/leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/MUKESH2215/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/MUKESH2215/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/MUKESH2215/leetcode/tree/master/0263-ugly-number) |
@@ -304,5 +307,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/MUKESH2215/leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/MUKESH2215/leetcode/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/MUKESH2215/leetcode/tree/master/0224-basic-calculator) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/MUKESH2215/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
