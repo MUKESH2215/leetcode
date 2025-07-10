@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/MUKESH2215/leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/MUKESH2215/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/MUKESH2215/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/MUKESH2215/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0860-design-circular-queue](https://github.com/MUKESH2215/leetcode/tree/master/0860-design-circular-queue) |
 ## Doubly-Linked List
 |  |
@@ -313,10 +314,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/MUKESH2215/leetcode/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/MUKESH2215/leetcode/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/MUKESH2215/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/MUKESH2215/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/MUKESH2215/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/MUKESH2215/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/MUKESH2215/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0860-design-circular-queue](https://github.com/MUKESH2215/leetcode/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
