@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/MUKESH2215/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0860-design-circular-queue](https://github.com/MUKESH2215/leetcode/tree/master/0860-design-circular-queue) |
 | [0917-boats-to-save-people](https://github.com/MUKESH2215/leetcode/tree/master/0917-boats-to-save-people) |
+| [1127-last-stone-weight](https://github.com/MUKESH2215/leetcode/tree/master/1127-last-stone-weight) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/MUKESH2215/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/MUKESH2215/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/MUKESH2215/leetcode/tree/master/1791-richest-customer-wealth) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MUKESH2215/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1127-last-stone-weight](https://github.com/MUKESH2215/leetcode/tree/master/1127-last-stone-weight) |
 ## Binary Tree
 |  |
 | ------- |
