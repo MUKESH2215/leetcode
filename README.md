@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/MUKESH2215/leetcode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MUKESH2215/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MUKESH2215/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1806-count-of-matches-in-tournament](https://github.com/MUKESH2215/leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2083-three-divisors](https://github.com/MUKESH2215/leetcode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/MUKESH2215/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2383-add-two-integers](https://github.com/MUKESH2215/leetcode/tree/master/2383-add-two-integers) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/MUKESH2215/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/MUKESH2215/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/MUKESH2215/leetcode/tree/master/0415-add-strings) |
+| [1806-count-of-matches-in-tournament](https://github.com/MUKESH2215/leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2058-concatenation-of-array](https://github.com/MUKESH2215/leetcode/tree/master/2058-concatenation-of-array) |
 ## Binary Search
 |  |
