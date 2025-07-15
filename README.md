@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/MUKESH2215/leetcode/tree/master/0782-jewels-and-stones) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/MUKESH2215/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [3379-score-of-a-string](https://github.com/MUKESH2215/leetcode/tree/master/3379-score-of-a-string) |
+| [3396-valid-word](https://github.com/MUKESH2215/leetcode/tree/master/3396-valid-word) |
 ## Dynamic Programming
 |  |
 | ------- |
