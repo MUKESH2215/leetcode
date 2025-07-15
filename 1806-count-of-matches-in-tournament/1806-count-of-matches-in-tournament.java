@@ -20,12 +20,13 @@ class Solution {
         //     }
         //      n=adv;
         // }
-        int sum=0;
-        while(n!=1)
-        {
-            sum+=n/2;
-            n-=n/2;
-        }
-        return sum;
+        // int sum=0;
+        // while(n!=1)
+        // {
+        //     sum+=n/2;
+        //     n-=n/2;
+        // }
+        // return sum;
+        return n-1;
     }
 }
