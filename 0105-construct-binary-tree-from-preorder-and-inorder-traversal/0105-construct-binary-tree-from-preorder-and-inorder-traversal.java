@@ -14,28 +14,20 @@
  * }
  */
 class Solution {
-//     public TreeNode buildTree(int[] preorder, int[] inorder) {
-//         public TreeNode helper
-//     }
-// }
-
-// class BuildBT{
-    int preindex=0;
-    public TreeNode buildTree(int[]p,int[]i)
-    {
-        return helper(p,i,0,i.length-1);
+    int preval=0;
+    public TreeNode buildTree(int[] preorder, int[] inorder) {
+        return helper(preorder,inorder,0,preorder.length-1);
     }
-    public TreeNode helper(int []pre,int []in,int start,int end)
+    public TreeNode helper(int[]pre,int[]in,int s,int e)
     {
-        if(start>end)
+        if(s>e)
         {
             return null;
         }
-        int rootval=pre[preindex++];
-        TreeNode root=new TreeNode(rootval);
         int inorderindex=0;
-        
-        for(int i=start;i<=end;i++)
+        int rootval=pre[preval++];
+        TreeNode root=new TreeNode(rootval);
+        for(int i=s;i<=e;i++)
         {
             if(rootval==in[i])
             {
@@ -43,17 +35,17 @@ class Solution {
                 break;
             }
         }
-        root.left=helper(pre,in,start,inorderindex-1);
-        root.right=helper(pre,in,inorderindex+1,end);
+        root.left=helper(pre,in,s,inorderindex-1);
+        root.right=helper(pre,in,inorderindex+1,e);
         return root;
     }
-    public void displaypreOrder(TreeNode n)
+    public void  preorder(TreeNode n)
     {
         if(n!=null)
-            {
-               System.out.print(n.val+" ");
-                displaypreOrder(n.left);
-                displaypreOrder(n.right);
-            }
+        {
+            System.out.print(n.val);
+            preorder(n.left);
+            preorder(n.right);
+        }
     }
 }
