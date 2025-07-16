@@ -19,24 +19,24 @@ class Solution {
         preval=postorder.length-1;
         return helper(inorder,postorder,0,inorder.length-1);
     }
-    public TreeNode helper(int[] i,int[] p,int s,int e)
+    public TreeNode helper(int[] in,int[] po,int s,int e)
     {
         if(s>e)
         {
             return null;
         }
         int inorderindex=0;
-        int rootval=p[preval--];
+        int rootval=po[preval--];
         TreeNode root=new TreeNode(rootval);
         for(int j=s;j<=e;j++)
         {
-            if(i[j]==rootval)
+            if(in[j]==rootval)
             {
                 inorderindex=j;
             }
         }
-        root.right=helper(i,p,inorderindex+1,e);
-        root.left=helper(i,p,s,inorderindex-1);
+        root.right=helper(in,po,inorderindex+1,e);
+        root.left=helper(in,po,s,inorderindex-1);
         return root;
     }
 
