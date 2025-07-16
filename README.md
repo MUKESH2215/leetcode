@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/MUKESH2215/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MUKESH2215/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MUKESH2215/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/MUKESH2215/leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/MUKESH2215/leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/MUKESH2215/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MUKESH2215/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -397,10 +398,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/MUKESH2215/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MUKESH2215/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MUKESH2215/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/MUKESH2215/leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/MUKESH2215/leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/MUKESH2215/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/MUKESH2215/leetcode/tree/master/0100-same-tree) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/MUKESH2215/leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 <!---LeetCode Topics End-->
