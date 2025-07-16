@@ -39,13 +39,5 @@ class Solution {
         root.right=helper(pre,in,inorderindex+1,e);
         return root;
     }
-    public void  preorder(TreeNode n)
-    {
-        if(n!=null)
-        {
-            System.out.print(n.val);
-            preorder(n.left);
-            preorder(n.right);
-        }
-    }
+    
 }
