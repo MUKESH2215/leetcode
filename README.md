@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-convert-the-temperature](https://github.com/MUKESH2215/leetcode/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/MUKESH2215/leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2722-prime-in-diagonal](https://github.com/MUKESH2215/leetcode/tree/master/2722-prime-in-diagonal) |
+| [2748-calculate-delayed-arrival-time](https://github.com/MUKESH2215/leetcode/tree/master/2748-calculate-delayed-arrival-time) |
 | [2812-find-the-maximum-achievable-number](https://github.com/MUKESH2215/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/MUKESH2215/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3371-harshad-number](https://github.com/MUKESH2215/leetcode/tree/master/3371-harshad-number) |
