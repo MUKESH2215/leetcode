@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/MUKESH2215/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/MUKESH2215/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/MUKESH2215/leetcode/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/MUKESH2215/leetcode/tree/master/0792-binary-search) |
 | [0860-design-circular-queue](https://github.com/MUKESH2215/leetcode/tree/master/0860-design-circular-queue) |
 | [0917-boats-to-save-people](https://github.com/MUKESH2215/leetcode/tree/master/0917-boats-to-save-people) |
 | [1127-last-stone-weight](https://github.com/MUKESH2215/leetcode/tree/master/1127-last-stone-weight) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MUKESH2215/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MUKESH2215/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/MUKESH2215/leetcode/tree/master/0367-valid-perfect-square) |
+| [0792-binary-search](https://github.com/MUKESH2215/leetcode/tree/master/0792-binary-search) |
 ## Memoization
 |  |
 | ------- |
