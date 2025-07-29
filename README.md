@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/MUKESH2215/leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/MUKESH2215/leetcode/tree/master/0792-binary-search) |
 | [0860-design-circular-queue](https://github.com/MUKESH2215/leetcode/tree/master/0860-design-circular-queue) |
+| [0898-transpose-matrix](https://github.com/MUKESH2215/leetcode/tree/master/0898-transpose-matrix) |
 | [0917-boats-to-save-people](https://github.com/MUKESH2215/leetcode/tree/master/0917-boats-to-save-people) |
 | [1039-find-the-town-judge](https://github.com/MUKESH2215/leetcode/tree/master/1039-find-the-town-judge) |
 | [1127-last-stone-weight](https://github.com/MUKESH2215/leetcode/tree/master/1127-last-stone-weight) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/MUKESH2215/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/MUKESH2215/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/MUKESH2215/leetcode/tree/master/0415-add-strings) |
+| [0898-transpose-matrix](https://github.com/MUKESH2215/leetcode/tree/master/0898-transpose-matrix) |
 | [1806-count-of-matches-in-tournament](https://github.com/MUKESH2215/leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2058-concatenation-of-array](https://github.com/MUKESH2215/leetcode/tree/master/2058-concatenation-of-array) |
 ## Binary Search
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/MUKESH2215/leetcode/tree/master/0048-rotate-image) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MUKESH2215/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0898-transpose-matrix](https://github.com/MUKESH2215/leetcode/tree/master/0898-transpose-matrix) |
 | [1791-richest-customer-wealth](https://github.com/MUKESH2215/leetcode/tree/master/1791-richest-customer-wealth) |
 | [2722-prime-in-diagonal](https://github.com/MUKESH2215/leetcode/tree/master/2722-prime-in-diagonal) |
 ## Prefix Sum
