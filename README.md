@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/MUKESH2215/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/MUKESH2215/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/MUKESH2215/leetcode/tree/master/0344-reverse-string) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/MUKESH2215/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/MUKESH2215/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/MUKESH2215/leetcode/tree/master/0415-add-strings) |
 | [0742-to-lower-case](https://github.com/MUKESH2215/leetcode/tree/master/0742-to-lower-case) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/MUKESH2215/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/MUKESH2215/leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/MUKESH2215/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/MUKESH2215/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/MUKESH2215/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/MUKESH2215/leetcode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/MUKESH2215/leetcode/tree/master/0504-base-7) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/MUKESH2215/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/MUKESH2215/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/MUKESH2215/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/MUKESH2215/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/MUKESH2215/leetcode/tree/master/0476-number-complement) |
 ## Linked List
 |  |
