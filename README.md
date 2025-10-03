@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3371-harshad-number](https://github.com/MUKESH2215/leetcode/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MUKESH2215/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/MUKESH2215/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/MUKESH2215/leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-number-of-common-factors](https://github.com/MUKESH2215/leetcode/tree/master/2507-number-of-common-factors) |
 | [2722-prime-in-diagonal](https://github.com/MUKESH2215/leetcode/tree/master/2722-prime-in-diagonal) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/MUKESH2215/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/MUKESH2215/leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Matrix
 |  |
 | ------- |
