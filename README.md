@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/MUKESH2215/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2722-prime-in-diagonal](https://github.com/MUKESH2215/leetcode/tree/master/2722-prime-in-diagonal) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MUKESH2215/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3583-count-special-triplets](https://github.com/MUKESH2215/leetcode/tree/master/3583-count-special-triplets) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/MUKESH2215/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Two Pointers
 |  |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/MUKESH2215/leetcode/tree/master/0782-jewels-and-stones) |
 | [1039-find-the-town-judge](https://github.com/MUKESH2215/leetcode/tree/master/1039-find-the-town-judge) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/MUKESH2215/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [3583-count-special-triplets](https://github.com/MUKESH2215/leetcode/tree/master/3583-count-special-triplets) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/MUKESH2215/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Brainteaser
 |  |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/MUKESH2215/leetcode/tree/master/0169-majority-element) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/MUKESH2215/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [3583-count-special-triplets](https://github.com/MUKESH2215/leetcode/tree/master/3583-count-special-triplets) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/MUKESH2215/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Stack
 |  |
