@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/MUKESH2215/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/MUKESH2215/leetcode/tree/master/0728-self-dividing-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/MUKESH2215/leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [1006-clumsy-factorial](https://github.com/MUKESH2215/leetcode/tree/master/1006-clumsy-factorial) |
 | [1013-fibonacci-number](https://github.com/MUKESH2215/leetcode/tree/master/1013-fibonacci-number) |
 | [1289-day-of-the-week](https://github.com/MUKESH2215/leetcode/tree/master/1289-day-of-the-week) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MUKESH2215/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/MUKESH2215/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/MUKESH2215/leetcode/tree/master/0415-add-strings) |
 | [0898-transpose-matrix](https://github.com/MUKESH2215/leetcode/tree/master/0898-transpose-matrix) |
+| [1006-clumsy-factorial](https://github.com/MUKESH2215/leetcode/tree/master/1006-clumsy-factorial) |
 | [1806-count-of-matches-in-tournament](https://github.com/MUKESH2215/leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2058-concatenation-of-array](https://github.com/MUKESH2215/leetcode/tree/master/2058-concatenation-of-array) |
 ## Binary Search
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/MUKESH2215/leetcode/tree/master/0739-daily-temperatures) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/MUKESH2215/leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/MUKESH2215/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1006-clumsy-factorial](https://github.com/MUKESH2215/leetcode/tree/master/1006-clumsy-factorial) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/MUKESH2215/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Queue
 |  |
