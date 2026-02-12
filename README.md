@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/MUKESH2215/leetcode/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/MUKESH2215/leetcode/tree/master/0605-can-place-flowers) |
 | [0917-boats-to-save-people](https://github.com/MUKESH2215/leetcode/tree/master/0917-boats-to-save-people) |
+| [1903-largest-odd-number-in-string](https://github.com/MUKESH2215/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/MUKESH2215/leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/MUKESH2215/leetcode/tree/master/0782-jewels-and-stones) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/MUKESH2215/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1903-largest-odd-number-in-string](https://github.com/MUKESH2215/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3379-score-of-a-string](https://github.com/MUKESH2215/leetcode/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/MUKESH2215/leetcode/tree/master/3396-valid-word) |
 ## Dynamic Programming
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MUKESH2215/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MUKESH2215/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1806-count-of-matches-in-tournament](https://github.com/MUKESH2215/leetcode/tree/master/1806-count-of-matches-in-tournament) |
+| [1903-largest-odd-number-in-string](https://github.com/MUKESH2215/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/MUKESH2215/leetcode/tree/master/1925-count-square-sum-triples) |
 | [2083-three-divisors](https://github.com/MUKESH2215/leetcode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/MUKESH2215/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
