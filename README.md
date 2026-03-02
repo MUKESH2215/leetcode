@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/MUKESH2215/leetcode/tree/master/0898-transpose-matrix) |
 | [0917-boats-to-save-people](https://github.com/MUKESH2215/leetcode/tree/master/0917-boats-to-save-people) |
 | [0930-binary-subarrays-with-sum](https://github.com/MUKESH2215/leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/MUKESH2215/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1039-find-the-town-judge](https://github.com/MUKESH2215/leetcode/tree/master/1039-find-the-town-judge) |
 | [1127-last-stone-weight](https://github.com/MUKESH2215/leetcode/tree/master/1127-last-stone-weight) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/MUKESH2215/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/MUKESH2215/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/MUKESH2215/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/MUKESH2215/leetcode/tree/master/0917-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/MUKESH2215/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/MUKESH2215/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
 |  |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/MUKESH2215/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MUKESH2215/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0917-boats-to-save-people](https://github.com/MUKESH2215/leetcode/tree/master/0917-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/MUKESH2215/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
