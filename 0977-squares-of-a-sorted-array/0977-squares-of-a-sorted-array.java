@@ -1,6 +1,6 @@
 class Solution {
     public int[] sortedSquares(int[] nums) {
-        int[] arr=new int[nums.length];
+        //int[] arr=new int[nums.length];
         for(int i=0;i<nums.length;i++)
         {
             nums[i]=Math.abs(nums[i]*nums[i]);
